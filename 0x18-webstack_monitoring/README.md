@@ -1,6 +1,5 @@
 # Webstack monitoring
 
-This project invovled setting up Sumo Logic accounts to monitor server traffic
-on my three HBnB servers.
+This project involved setting up a Datadog account to monitor server traffic on three HBnB servers.
 
 
